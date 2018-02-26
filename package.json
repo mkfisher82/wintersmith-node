@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.2",
+    "opn": "^5.2.0",
     "wintersmith": "^2.4.1"
   }
 }
