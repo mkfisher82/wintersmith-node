@@ -1,0 +1,15 @@
+{
+  "name": "wintersmith-node",
+  "version": "1.0.0",
+  "description": "Test using wintersmith preview and build from within node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Fisher",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "wintersmith": "^2.4.1"
+  }
+}
